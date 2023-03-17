@@ -1,0 +1,82 @@
+[{
+        "type": "COJINES",
+        "products": [{
+                "name": "20",
+                "value": 310000
+            },
+            {
+                "name": "30",
+                "value": 353000
+            },
+            {
+                "name": "40",
+                "value": 395000
+            },
+            {
+                "name": "50",
+                "value": 458000
+            },
+            {
+                "name": "60",
+                "value": 480000
+            },
+            {
+                "name": "70",
+                "value": 512000
+            },
+            {
+                "name": "80",
+                "value": 545000
+            },
+            {
+                "name": "100",
+                "value": 590000
+            },
+            {
+                "name": "120",
+                "value": 655000
+            },
+            {
+                "name": "150",
+                "value": 702000
+            }
+        ]
+    },
+    {
+        "type": "COMBOS",
+        "products": [{
+                "name": "SOLTERO",
+                "value": 12000
+            },
+            {
+                "name": "PAREJA",
+                "value": 23000
+            },
+            {
+                "name": "TRIO",
+                "value": 33000
+            },
+            {
+                "name": "CUARTETO",
+                "value": 44000
+            },
+            {
+                "name": "FAMILIAR",
+                "value": 54000
+            },
+            {
+                "name": "GALLADA",
+                "value": 64000
+            },
+            {
+                "name": "MANADA",
+                "value": 74000
+            },
+            {
+                "name": "FIESTA",
+                "value": 108000
+            }
+        ]
+    }
+
+]
